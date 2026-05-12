@@ -5,6 +5,8 @@ date: 2026-05-12
 excerpt: "This book began with a question I was not supposed to ask."
 ---
 
+![Humanity looking up at orbital solar infrastructure above Earth]({{ site.baseurl }}/are-we-free-hero.png)
+
 This book began with a question I was not supposed to ask.
 Not because it was forbidden. Because it was inconvenient. Because the systems I worked inside, the pipelines, the platforms, the annotation queues, the trust and safety frameworks, were all designed to move forward, not to stop and ask whether forward was the right direction.
 I asked anyway. For thirteen years I asked it at every level of the machine. In the data, in the pipelines, in the humans whose labor trained the models the world now depends on. I asked it in the moments before a decision became irreversible. I asked it when the metrics said success and my body said something else.
