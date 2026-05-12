@@ -1,8 +1,0 @@
-title: On The Origin of Trained Wisdom
-description: A plural-epistemic framework for AI wisdom by Lorraine C. Kharbanda
-url: https://lorraineckharbanda.github.io
-baseurl: /edge-cases
-theme: minima
-author: Lorraine C. Kharbanda
-plugins:
-  - jekyll-feed
