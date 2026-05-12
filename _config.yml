@@ -4,3 +4,5 @@ url: https://lorraineckharbanda.github.io
 baseurl: /edge-cases
 theme: minima
 author: Lorraine C. Kharbanda
+plugins:
+  - jekyll-feed
